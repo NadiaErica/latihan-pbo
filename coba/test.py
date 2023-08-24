@@ -1,1 +1,2 @@
 print("nadia")
+print('ok')
